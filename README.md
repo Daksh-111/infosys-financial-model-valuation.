@@ -1,5 +1,5 @@
 # Infosys ltd. - Financial Modelling and Valauation Report.
-A comprehensive Financial modelling and valuation report of Infosys ltd. (INFY) covering 3-Statement Model, Forecasting, Discounted Cashflow (DCF), Comparable company Valuation (Comps.), Value at Risk (Var)., Dupont Analysis and Altman's Z score.
+A comprehensive Financial modelling and valuation report of Infosys ltd. (INFY), featuring a fully integrated 3-Statement Model, Forecasting, Discounted Cashflow (DCF), Comparable company Valuation (Comps.), Value at Risk (Var)., Dupont Analysis and Altman's Z score and key insights into financial performance.
 
 ⚠️ **Disclaimer:** This project is for educational purposes only and does not constitute investment advice.
 
